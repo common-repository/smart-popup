@@ -1,0 +1,32 @@
+.wpsp {
+    text-decoration: underline;
+    font-weight: bold;
+}
+ 
+
+.modal-title{
+    font-size: 14px;
+    font-size: 1rem;
+    font-weight: 800;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+}
+
+.wpsp-popup .small {
+    max-width: 25%; 
+}
+
+.wpsp-popup .medium {
+    max-width: 40%; 
+}
+.wpsp-popup .large {
+    max-width: 55%; 
+}
+.wpsp-popup .extra-large {
+    max-width: 75%; 
+}
+.wpsp-popup .full-width {
+    max-width: 100%; 
+    
+}
+ 
